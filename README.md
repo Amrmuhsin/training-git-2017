@@ -9,3 +9,8 @@ Materi:
 
 * Membuat Repository di Remote
 * Mengupload Perubahan ke Remote
+
+* Workflow Kolaborasi
+
+    * Shared Repository
+	* Pull Request
