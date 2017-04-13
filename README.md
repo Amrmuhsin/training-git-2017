@@ -13,4 +13,9 @@ Materi:
 * Workflow Kolaborasi
 
     * Shared Repository
+
+![Ilustrasi Shared Repo](img/shared-repo.jpg)
+
 	* Pull Request
+
+![Ilustrasi Pull Request](img/pull-request.jpg)
